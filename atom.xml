@@ -6,7 +6,7 @@
   <link href="http://gazdikdorina1230.github.io/teblog.git/atom.xml" rel="self"/>
   
   <link href="http://gazdikdorina1230.github.io/teblog.git/"/>
-  <updated>2024-04-09T07:52:04.193Z</updated>
+  <updated>2024-04-11T06:42:03.865Z</updated>
   <id>http://gazdikdorina1230.github.io/teblog.git/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://gazdikdorina1230.github.io/teblog.git/2024/04/09/jssplit/"/>
     <id>http://gazdikdorina1230.github.io/teblog.git/2024/04/09/jssplit/</id>
     <published>2024-04-09T06:51:25.000Z</published>
-    <updated>2024-04-09T07:52:04.193Z</updated>
+    <updated>2024-04-11T06:42:03.865Z</updated>
     
     <content type="html"><![CDATA[<p>A split() függvény egy sztringet darabol több részre. Eredményül egy tömböt kapunk.</p><p>Szintaxisa:</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">string.<span class="title function_">split</span>(separator[, limit])</span><br></pre></td></tr></table></figure><ul><li>string: Amit szeretnénk feldolgozni</li><li>separator: Elválasztó, ami mentén fel kell darabolni a sztringet</li><li>limit: A visszaadott tömbben az elemek maximális száma</li></ul>]]></content>
     
