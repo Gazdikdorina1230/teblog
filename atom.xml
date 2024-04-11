@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="http://gazdikdorina1230.github.io/teblog.git/atom.xml" rel="self"/>
+  <link href="http://gazdikdorina1230.github.io/teblog/atom.xml" rel="self"/>
   
-  <link href="http://gazdikdorina1230.github.io/teblog.git/"/>
+  <link href="http://gazdikdorina1230.github.io/teblog/"/>
   <updated>2024-04-11T06:42:03.865Z</updated>
-  <id>http://gazdikdorina1230.github.io/teblog.git/</id>
+  <id>http://gazdikdorina1230.github.io/teblog/</id>
   
   <author>
     <name>Gazdik Dorina</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>JavaScript split() függvény</title>
-    <link href="http://gazdikdorina1230.github.io/teblog.git/2024/04/09/jssplit/"/>
-    <id>http://gazdikdorina1230.github.io/teblog.git/2024/04/09/jssplit/</id>
+    <link href="http://gazdikdorina1230.github.io/teblog/2024/04/09/jssplit/"/>
+    <id>http://gazdikdorina1230.github.io/teblog/2024/04/09/jssplit/</id>
     <published>2024-04-09T06:51:25.000Z</published>
     <updated>2024-04-11T06:42:03.865Z</updated>
     
@@ -36,7 +36,7 @@
     
     
     
-    <category term="JavaScript sztringek" scheme="http://gazdikdorina1230.github.io/teblog.git/tags/JavaScript-sztringek/"/>
+    <category term="JavaScript sztringek" scheme="http://gazdikdorina1230.github.io/teblog/tags/JavaScript-sztringek/"/>
     
   </entry>
   
