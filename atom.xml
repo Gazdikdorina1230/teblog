@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="http://gazdikdorina1230.github.io/teblog.git/atom.xml" rel="self"/>
+  
+  <link href="http://gazdikdorina1230.github.io/teblog.git/"/>
+  <updated>2024-04-09T07:52:04.193Z</updated>
+  <id>http://gazdikdorina1230.github.io/teblog.git/</id>
+  
+  <author>
+    <name>Gazdik Dorina</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JavaScript split() függvény</title>
+    <link href="http://gazdikdorina1230.github.io/teblog.git/2024/04/09/jssplit/"/>
+    <id>http://gazdikdorina1230.github.io/teblog.git/2024/04/09/jssplit/</id>
+    <published>2024-04-09T06:51:25.000Z</published>
+    <updated>2024-04-09T07:52:04.193Z</updated>
+    
+    <content type="html"><![CDATA[<p>A split() függvény egy sztringet darabol több részre. Eredményül egy tömböt kapunk.</p><p>Szintaxisa:</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">string.<span class="title function_">split</span>(separator[, limit])</span><br></pre></td></tr></table></figure><ul><li>string: Amit szeretnénk feldolgozni</li><li>separator: Elválasztó, ami mentén fel kell darabolni a sztringet</li><li>limit: A visszaadott tömbben az elemek maximális száma</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;A split() függvény egy sztringet darabol több részre. Eredményül egy tömböt kapunk.&lt;/p&gt;
+&lt;p&gt;Szintaxisa:&lt;/p&gt;
+&lt;figure class=&quot;highlight javas</summary>
+      
+    
+    
+    
+    
+    <category term="JavaScript sztringek" scheme="http://gazdikdorina1230.github.io/teblog.git/tags/JavaScript-sztringek/"/>
+    
+  </entry>
+  
+</feed>
